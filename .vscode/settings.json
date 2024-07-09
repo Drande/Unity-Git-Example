@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Unity Git Example.sln"
+    "dotnet.defaultSolution": "Unity-Git-Example.sln"
 }
